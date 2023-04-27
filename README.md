@@ -3,6 +3,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,unity,blender,js,html,css,git,github,vscode&perline=4)](https://skillicons.dev)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GGuilhermeAlves&repo=meusCodigos&theme=aura_dark)](https://github.com/GGuilhermeAlves/meusCodigos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GGuilhermeAlves&repo=modelosBlender&theme=aura_dark)](https://github.com/GGuilhermeAlves/modelosBlender)
+
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGuilhermeAlves&hide_progress=true&theme=moltack)](https://github.com/GGuilhermeAlves/github-readme-stats)-->
 
