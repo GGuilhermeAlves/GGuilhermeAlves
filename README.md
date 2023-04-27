@@ -1,6 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGuilhermeAlves&show_icons=true&theme=aura_dark)
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,unity,blender&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,unity,blender,js,html,css,git,github,vscode,&perline=4)](https://skillicons.dev)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGuilhermeAlves&hide_progress=true&theme=moltack)](https://github.com/GGuilhermeAlves/github-readme-stats)-->
 
