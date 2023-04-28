@@ -1,5 +1,7 @@
+ # About me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGuilhermeAlves&show_icons=true&theme=aura_dark)
+Meu nome é Wagner Guilherme, tenho 21 anos e natural de Recife/PE, atualmente moro em Aracaju/SE. Meu início na área de TI foi quando terminei o ensino médio em 2020 no C.E.P.João Costa, possuindo bom conhecimento em Inglês, eu achei interessante a área de TI, em 2021 estudei em um curso no C.E.E.P.José Figueiredo Barreto, onde fui agraciado com uma bolsa por um dos professores para fazer parte de um projeto de Iniciação Científica Jr sobre Arduino em Realidade Aumentada no Unity onde fui responsável pela criação de modelos 3D para um protótipo inicial, em 2022 comecei meus estudos em Tecnologia em Análise e Desenvolvimento de Sistemas no IFS, também fui Monitor de Introdução à Lógica de Programação em Java para uma turma no SergipeTec, e no mesmo ano o projeto que faço parte citado anteriormente foi aprovado para a fase 3 do Programa Centelha!
+
 
 ## 🚀 | Learning
 ![Python](https://img.shields.io/badge/Python-2A2E49?style=for-the-badge&logo=Python)
@@ -21,15 +23,25 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 -->
+<hr/>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/GGuilhermeAlves">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GGuilhermeAlves&theme=radical" alt="Guilherme Alves's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Guilherme Alves's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GGuilhermeAlves&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Guilherme Alves's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GGuilhermeAlves&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GGuilhermeAlves&repo=meusCodigos&theme=aura_dark)](https://github.com/GGuilhermeAlves/meusCodigos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GGuilhermeAlves&repo=modelosBlender&theme=aura_dark)](https://github.com/GGuilhermeAlves/modelosBlender)
-
-
-![Metrics](https://metrics.lecoq.io/GGuilhermeAlves?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+![GGuilhermeAlves's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GGuilhermeAlves&custom_title=Guilherme%20Alves's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## 📫 | Contact
 
