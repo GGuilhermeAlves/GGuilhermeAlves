@@ -1,9 +1,9 @@
- # About me
+ # About me / Sobre mim
 
 Meu nome é Wagner Guilherme, tenho 21 anos e natural de Recife/PE, atualmente moro em Aracaju/SE. Meu início na área de TI foi quando terminei o ensino médio em 2020 no C.E.P.João Costa, possuindo bom conhecimento em Inglês, eu achei interessante essa área, em 2021 estudei em um curso no C.E.E.P.José Figueiredo Barreto, onde fui agraciado com uma bolsa por um dos professores para fazer parte de um projeto de Iniciação Científica Jr sobre Arduino em Realidade Aumentada no Unity onde fui responsável pela criação de modelos 3D para um protótipo inicial, em 2022 comecei meus estudos em Tecnologia em Análise e Desenvolvimento de Sistemas no IFS, também fui Monitor de Introdução à Lógica de Programação em Java para uma turma no SergipeTec, e no mesmo ano o projeto que faço parte citado anteriormente foi aprovado para a fase 3 do Programa Centelha!
 
 
-## 🚀 | Learning
+## 🚀 | Learning / Aprendendo
 ![Python](https://img.shields.io/badge/Python-2A2E49?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/java-AF0505?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -35,7 +35,7 @@ Meu nome é Wagner Guilherme, tenho 21 anos e natural de Recife/PE, atualmente m
 
 ![GGuilhermeAlves's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GGuilhermeAlves&custom_title=Guilherme%20Alves's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-## 📫 | Contact
+## 📫 | Contact / Contato
 
 <a href="https://linkedin.com/in/w-gguialves" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="w-gguialves"/>
