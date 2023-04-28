@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGuilhermeAlves&show_icons=true&theme=aura_dark)
 
-## ⚙️ | Learning
+## 🚀 | Learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -19,8 +19,9 @@
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=python,java,unity,blender,js,html,css,git,github,vscode&perline=4)](https://skil<!licons.dev)-->
+![Metrics](https://metrics.lecoq.io/GGuilhermeAlves?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FSao_Paulo)
 
-## 🚀 | Contact
+## 📫 | Contact
 
 <code><a href="https://www.linkedin.com/in/w-gguialves/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
