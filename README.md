@@ -33,8 +33,7 @@ Meu nome é Wagner Guilherme, tenho 21 anos e natural de Recife/PE, atualmente m
 </a>
 
 
-![GGuilhermeAlves's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GGuilhermeAlves&custom_title=Guilherme%20Alves's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GGuilhermeAlves&bg_color=151415&color=9e2448&line=9900ff&point=ff0059&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 📫 | Contact / Contato
 
 <a href="https://linkedin.com/in/w-gguialves" target="_blank">
