@@ -27,7 +27,7 @@ Meu nome é Wagner Guilherme, tenho 21 anos e natural de Recife/PE, atualmente m
 <br>
 
 <a> 
-    <a href="https://github.com/GGuilhermeAlves"><img alt="Guilherme Alves's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GGuilhermeAlves&show_icons=true&count_private=true&layout=compact&bg_color=151415&title_color=ff0059&icon_color=9900ff&hide_border=true" height="192px" width="50%"/></a>
+    <a href="https://github.com/GGuilhermeAlves"><img alt="Guilherme Alves's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GGuilhermeAlves&show_icons=true&count_private=true&layout=compact&bg_color=151415&title_color=ff0059&icon_color=9900ff&hide_border=true" height="192px" width="49.5%"/></a>
   <a href="https://github.com/GGuilhermeAlves"><img alt="Guilherme Alves's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GGuilhermeAlves&langs_count=8&layout=compact&border_color=151415&color=9e2448&bg_color=151415&title_color=ff0059&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
