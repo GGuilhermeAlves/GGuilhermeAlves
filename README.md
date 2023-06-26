@@ -45,5 +45,4 @@ Meu nome é Wagner Guilherme, tenho 21 anos e natural de Recife/PE, atualmente m
 <a href="https://github.com/GGuilhermeAlves" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GGuilhermeAlves"/>
  </a>
-
-![](https://komarev.com/ghpvc/?username=GGuilhermeAlves&color=dc143c)
+ 
